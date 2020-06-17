@@ -1,0 +1,26 @@
+{
+    "data": {
+        "region": {
+            "name": "Белгородская",
+            "shortName": "обл"
+        },
+        "locality": {
+            "name": "Белгород",
+            "shortName": "г"
+        },
+        "street": {
+            "name": "Губкина",
+            "shortName": "ул"
+        },
+        "house": {
+            "name": "17и",
+            "shortName": null
+        },
+        "flat": "27",
+        "addressReferense": {
+            "id": "bdf64f5b-2f8e-444c-a4ab-3ae15478e541",
+            "name": "Белгородская, Белгород, Губкина, 17и, 27 ",
+            "typeName": "gm_address"
+        }
+    }
+}
